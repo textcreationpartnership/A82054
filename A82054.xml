@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration and remonstrance of the Kings Majesties loyall subjects within the City of London, to the Lords &amp; Commons assembled at Westminster, concerning the army under the command of the Lord Gen. Fairfax, &amp; the discontents &amp; jealousies thereof, occasioned by their aversnesse to the settlement of religion, their disaffection to the city, and the advancement of their own private power and ends. Also, the proposalls of Sir Charles Lucas, to the Councell of Warre before his death. And a great fight near Nampswich, in Cheshire, divers killed, and 1500. taken prisoners.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82054</idno>
+            <idno type="STC">Wing D546</idno>
+            <idno type="STC">Thomason E462_6</idno>
+            <idno type="STC">ESTC R205063</idno>
+            <idno type="EEBO-CITATION">99864505</idno>
+            <idno type="PROQUEST">99864505</idno>
+            <idno type="VID">162187</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162187)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E462[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration and remonstrance of the Kings Majesties loyall subjects within the City of London, to the Lords &amp; Commons assembled at Westminster, concerning the army under the command of the Lord Gen. Fairfax, &amp; the discontents &amp; jealousies thereof, occasioned by their aversnesse to the settlement of religion, their disaffection to the city, and the advancement of their own private power and ends. Also, the proposalls of Sir Charles Lucas, to the Councell of Warre before his death. And a great fight near Nampswich, in Cheshire, divers killed, and 1500. taken prisoners.</title>
+                  <author>Lucas, Charles, Sir, 1613-1648.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the year,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept. ye 4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162187:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 119 -->
+            <p>THE DECLARATION AND REMONSTRANCE OF THE Kings Majeſties loyall Subjects within the City of LONDON, to the Lords &amp; Commons Aſſembled at <hi>Weſtminſter,</hi> concerning the Army under the Command of the Lord Gen. <hi>Fairfax,</hi> &amp; the diſcontents &amp; jealouſies thereof, occaſioned by their averſneſſe to the ſettlement of Religion, their diſaffection to the City, and the advancement of their own private power and ends.</p>
+            <p>ALSO, The Propoſalls of Sir CHARLES LUCAS, to the Councell of Warre before his death. And a Great Fight near <hi>Namptwich,</hi> in <hi>Cheſhire,</hi> divers killed, and 1500. taken priſoners.</p>
+            <figure>
+               <figDesc>blazon of the City of London</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON Printed in the Year, MDCXLVIII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162187:2"/>
+            <!-- PDF PAGE 120 -->
+            <pb n="1" facs="tcp:162187:2"/>
+            <!-- PDF PAGE 120 -->
+            <head>The Declaration of the Kings Maieſties loyall Subjects within the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> concerning the Parliament and Army.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Right Honourable, the Lord Maior<g ref="char:punc">▪</g> Aldermen, and Common-Councell of the City of <hi>Lo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>don,</hi> having taken into ſerious Conſideration the great and apparent ei<g ref="char:EOLhyphen"/>minent dangers, &amp; preſent Commotions, diſtructiue to the Parl. City, and Ki<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gdom, occaſioned by the ſad diviſions and diſcontents amongſt thoſe that have formerly joyned together for the ſafety of Religion, and the Laws of the Realme; after ſome conſideration thereupon unaminouſly declares their reſolution and de<g ref="char:EOLhyphen"/>ſires to both Houſes of Parliament, for the allowing and removall of the jealouſies and diſcontent, which are the viſible cauſes of our ſad diviſions and diſtinctions. <hi>viz.</hi> thoſe concerning the Parliament ſeem to ariſe from theſe apprehentions and feares.</p>
+            <p n="1">1. That the Parl. intend not really to ſettle religion ac<g ref="char:EOLhyphen"/>cording to the Word of God, and the Solemn League &amp; Covenant, not the execution of juſtice upon delinquents,
+<pb n="2" facs="tcp:162187:3"/>
+               <!-- PDF PAGE 121 -->but what they do therein, ariſeth more out of the ſeverall exigents they are brought into: then out of a love and li<g ref="char:EOLhyphen"/>king of the things themſelves, &amp; full reſolutions to main<g ref="char:EOLhyphen"/>tain them. 2. That they intend to alter the ancient and fun<g ref="char:EOLhyphen"/>damentall Government of this Kingdom by King, Lords, and Commons. 3. That they intend not only the neceſſa<g ref="char:EOLhyphen"/>ry continuance of the Army at preſent, and to make uſe thereof for ſubduing the common enemy, and quieting the diſtempers of the Kingdom, but to govern the King<g ref="char:EOLhyphen"/>dom by an Army, to be perpetually maintained to that end, and conſequently the continuing of Exciſe and Tax<g ref="char:EOLhyphen"/>ations. 4. That they intend not really to make a Peace with the King, though they might have it with ſafetie and ſe<g ref="char:EOLhyphen"/>curitie to Religion, Law, and libertie.</p>
+            <p>
+               <hi>For Remedy whereof, it is earneſtly deſired.</hi>
+               <lb/>
+1. That the Parl. would pleaſe fullie and effectuallie to declare their ſincere reſolutions to perfect the work of Re<g ref="char:EOLhyphen"/>formation, according to the Word of God &amp; the Solemn League and Covenant with execution of juſtice upon De<g ref="char:EOLhyphen"/>linquents, and their reſolutions to remain ſtedfaſt and un<g ref="char:EOLhyphen"/>moveable herein, notwithſtanding any preſſure of a Po<g ref="char:EOLhyphen"/>piſh and P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elatick party, and the influence of any other party or forces whatſoever. 2. That they publiſh to the Kingdom their reſolutions not to alter the Government thereof by King, Lords and Commons. 3. That the Parl. will proceed with all clearneſſe and poſſible ſpeed to ob<g ref="char:EOLhyphen"/>tain a Peace upon tearmes that are ſecure for Religion, Law, and liberty; and for thoſe that have adventured their lives and eſtates for the Parliament for that end; that the Treaty the Houſes have reſolved upon, at the Iſle of <hi>Wight</hi> or ſhall reſolve upon at any other place, may be ſo mana<g ref="char:EOLhyphen"/>ged, that it may be a reall demonſtration to the Kingdom,
+<pb n="3" facs="tcp:162187:3"/>
+               <!-- PDF PAGE 121 -->that as the Parl. will not recede from the grounds of their cauſe, ſo there ſhall be no other juſt cauſe given, by delay or obſtruction, to a wel grounded peace on their parts. That upon ſuch a ſettle ment care may be is taken of eaſing the people of the burden of Armies and taxations, and incouragement given to advance trade.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> conc<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ning the City.</hi>
+               <lb/>
+1. That they ſeeme to receede from their former prin<g ref="char:EOLhyphen"/>ciples upon which they have engaged with the Parl., in their earneſt preſſing the Parl. for peace, for a Perſonall Treaty, and the Kings comming to London, without the like expreſſions of their zeal for the reformation of religi<g ref="char:EOLhyphen"/>on, freedom of Parl. and liberty of the ſubj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct to be pro<g ref="char:EOLhyphen"/>vided for in that Treaty, and ſecured in the ſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tlement of peace. 2. That the former readines of the City to diſco<g ref="char:EOLhyphen"/>ver the ſecret plots of the malignant party and to oppoſe them when they are diſcovered both in the city &amp; coun<g ref="char:EOLhyphen"/>try, ſeemeth to be much abated, &amp; that the liſting of ſol<g ref="char:EOLhyphen"/>diers, and preparation of Arms by many in the City and out-parts for the late inſurrections in the Counties adja<g ref="char:EOLhyphen"/>cent, withholding their contribution from thoſe that ſhould oppoſe them, which raiſes a jealouſie of the Cities affections to the Parliament.</p>
+            <p>
+               <hi>For remedy, whereof it is deſired.</hi>
+               <lb/>
+That the Parl. would recommend it to the City, that they do declare, that as they have earneſtly deſired a trea<g ref="char:EOLhyphen"/>ty with the King for peace, ſo they are reſolved to aſſiſt the Parl. with their lives and eſtates to obtain ſafe con<g ref="char:EOLhyphen"/>ceſſions for the preſervation of Religion Law and liber<g ref="char:EOLhyphen"/>ties and that they declare their diſlike &amp; deteſtation of the late Tumults in the City, and inſurrections in the Counties, and their readines to aſſiſt the Parliament.</p>
+            <p>
+               <pb n="4" facs="tcp:162187:4"/>
+               <!-- PDF PAGE 122 -->
+               <list>
+                  <head>The diſcontents and jealouſies of the Army.</head>
+                  <item>1. From their averſneſs to the ſettlement of Religion in doctrin, worſhip, Diſcipline and Goverment, accord<g ref="char:EOLhyphen"/>ing to the word of God and the ſolemne league and Co<g ref="char:EOLhyphen"/>venant, And their covntinancing by their power multi<g ref="char:EOLhyphen"/>tudes of perſons of unſound judgments, and thoſe oppo<g ref="char:EOLhyphen"/>ſite to ſuch a ſettlement.</item>
+                  <item>2. Their not ſubmitting formerly to the Parliaments commands, and intermedling with the tranſactions of State, and their diſaffection to the City of London, both Miniſters and people wel-affected, who have been faith<g ref="char:EOLhyphen"/>full to the cauſe, and ſtand for Reformation.</item>
+                  <item>3. That if by the aſſiſtance of the perſons and the eſtats of the wel-affected they ſhould be enabled to overcome the preſent inſurrections &amp; Armies raiſed againſt it, they would turn their ſucceſſe to the advancment of their own private power and ends.</item>
+               </list>
+            </p>
+            <p>
+               <hi>For R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>medy whereof.</hi>
+               <lb/>
+It is deſired that the Parliament would recommend it to the Generall, Commanders and Officers of the Army, that they do declare their Reſolutions to ſubmit to what they ſhall do in the eſtabliſhing of Religion the ſettle<g ref="char:EOLhyphen"/>ment of the Peace of the Kingdom, the preſervation of the fundamentall government thereof, and that they de<g ref="char:EOLhyphen"/>clare an amicable reſpect and agreement with the City of London: and that when the Parliament in their wiſdom ſhall think fit to leſſen or disband the Army that they accordingly yeild obedience.</p>
+            <q>
+               <pb n="5" facs="tcp:162187:4"/>
+               <!-- PDF PAGE 122 -->
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>
+                              <date>31. Auguſt 1648,</date>
+                           </dateline>
+                        </opener>
+                        <p>The Lords have conſidered of your Petition, and the Petition of divers well-affected Miniſters, Citizens, and others of the City of London, and parts adjacent, and have commanded me to return thanks unto you for your good affection expreſſed in this particular, and do deſire you that you would return thanks to thoſe wel-affected Mi<g ref="char:EOLhyphen"/>niſters, Citizens, and others of the City of London, and parts adjacent, for their good affection which they have expreſſed in deſiring the removall of all jealouſies, and en<g ref="char:EOLhyphen"/>deavoring a perfect union of the wel affected, in order to to the procuring of a ſafe and wel-grounded peace.</p>
+                        <closer>
+                           <signed>Io. Brown Cler, Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>
+                              <date>Die Iovis 31. Aug. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>THe houſe being informed that the Sheriffs and other Citizens were at the door, they called them in, and Sheriff <hi>Byde</hi> informed the houſe, that on Tueſday laſt a Petition was brought unto the Common Councell, ſign<g ref="char:EOLhyphen"/>ed by many hands of Citizens of good quallity, and very wel-affected; that the Court of Common Councell con<g ref="char:EOLhyphen"/>ceived it to be a buſineſſe of very high concernment, and therefore the Lord Maior, Aldermen, and Commons in Common Councell aſſembled had commanded them to bring it and preſent it to the Houſe accompanied with a Petition of their own.</p>
+                        <p>
+                           <hi>Reſolved, &amp;c.</hi>
+                           <lb/>
+That the thanks of this houſe be given to the Lord Major, Sheriffs, Aldermen, Citizens and Petitioners, for their good affections to the Parliament &amp; Kingdom, ex<g ref="char:EOLhyphen"/>preſſed in their Petition and paper anenxed be taken into
+<pb n="6" facs="tcp:162187:5"/>
+                           <!-- PDF PAGE 123 -->conſideration on Munday morning next, and that they be acquainted that the Houſe is now upon the great bu<g ref="char:EOLhyphen"/>ſines of the Treaty.</p>
+                        <p>The Sheriffs Aldermen and Citizens wer<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>gain cal<g ref="char:EOLhyphen"/>led in, and Mr. Speaker by the command of <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> ac<g ref="char:EOLhyphen"/>cording to the Vote, did give them <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> their anſwer.</p>
+                        <closer>
+                           <signed>H. Elſing Cler. Parl D. Com.</signed>
+                        </closer>
+                        <postscript>
+                           <opener>
+                              <salute>Sir,</salute>
+                           </opener>
+                           <p>Since the late ſigne near <hi>Preſton</hi> in Lancaſhire, here hath happened ſome action, between the Engliſh and the Scots, and a <gap reason="illegible" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> diſputation divers Scots were kil<g ref="char:EOLhyphen"/>led, and <gap reason="illegible" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> taken priſoners. We daly exp<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ct n<gap reason="illegible" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>s of conquering of <hi>Mou<gap reason="illegible" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap>
+                              </hi> and his Army, they are ve<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>y neare to an engagement<g ref="char:punc">▪</g> God grant us ſucceſſe <gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>o co<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>quer the Invaders.</p>
+                           <closer>
+                              <dateline>Namptwich <date>Aug. 29. 1648.</date>
+                              </dateline>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <div type="part">
+               <head>The Propoſals of Sr. <hi>Charles Lucas<g ref="char:punc">▪</g>
+                  </hi> to the Councell of warre before his death.</head>
+               <p>Sir <hi>Charles Lucas</hi> b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing brought before the Councell of war, and having the ſentence of death paſſed againſt him, to have Millitary Juſtice for the ſhedding ſo much innocent blood, propounded, 1. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat the way with him was without preſident. 2. That he ought to have been heard, and to have had a legall tryall, whereby he might have appealed, &amp;c.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
